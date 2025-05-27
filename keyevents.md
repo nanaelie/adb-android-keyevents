@@ -1,5 +1,5 @@
 <!--   | unknown                  | adb shell input keyevent 0 |-->
----
+
 | Android KeyEvent              | ADB command                  |
 | ----------------------------- | ---------------------------- |
 | 0                             | adb shell input keyevent 7   |
@@ -287,4 +287,3 @@
 | Yen                           | adb shell input keyevent 216 |
 | Zoom in                       | adb shell input keyevent 168 |
 | Zoom out                      | adb shell input keyevent 169 |
----
