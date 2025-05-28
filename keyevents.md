@@ -238,6 +238,8 @@
 |-|-|
 | o                             | adb shell input keyevent 43  |
 
+|||
+|-|-|
 | Plus                          | adb shell input keyevent 81  |
 | Pound                         | adb shell input keyevent 18  |
 | Page up                       | adb shell input keyevent 92  |
