@@ -1,5 +1,3 @@
-<!--   | unknown                  | adb shell input keyevent 0 |-->
-
 | Android KeyEvent              | ADB command                  |
 | ----------------------------- | ---------------------------- |
 | 3d mode                       | adb shell input keyevent 206 |
