@@ -13,9 +13,6 @@
 | 9                             | adb shell input keyevent 16  |
 | 11                            | adb shell input keyevent 227 |
 | 12                            | adb shell input keyevent 228 |
-
-|||
-|-|-|
 | ALT left                      | adb shell input keyevent 57  |
 | ALT right                     | adb shell input keyevent 58  |
 | AVR input                     | adb shell input keyevent 182 |
@@ -26,9 +23,6 @@
 | a                             | adb shell input keyevent 29  |
 | Apostrophe                    | adb shell input keyevent 75  |
 | App switch                    | adb shell input keyevent 187 |
-
-|||
-|-|-|
 | Back                          | adb shell input keyevent 4   |
 | Backslash                     | adb shell input keyevent 73  |
 | Bookmark                      | adb shell input keyevent 174 |
@@ -67,9 +61,6 @@
 | Button start                  | adb shell input keyevent 108 |
 | Button mode                   | adb shell input keyevent 110 |
 | b                             | adb shell input keyevent 30  |
-
-|||
-|-|-|
 | CTRL left                     | adb shell input keyevent 113 |
 | CTRL right                    | adb shell input keyevent 114 |
 | Calculator                    | adb shell input keyevent 210 |
@@ -86,9 +77,6 @@
 | Copy                          | adb shell input keyevent 278 |
 | Cut                           | adb shell input keyevent 277 |
 | c                             | adb shell input keyevent 31  |
-
-|||
-|-|-|
 | DPAD center                   | adb shell input keyevent 23  |
 | DPAD down                     | adb shell input keyevent 20  |
 | DPAD down left                | adb shell input keyevent 269 |
@@ -101,9 +89,6 @@
 | DVR                           | adb shell input keyevent 173 |
 | Del                           | adb shell input keyevent 67  |
 | d                             | adb shell input keyevent 32  |
-
-|||
-|-|-|
 | Eisu                          | adb shell input keyevent 212 |
 | Endcall                       | adb shell input keyevent 6   |
 | Envelope                      | adb shell input keyevent 65  |
@@ -112,9 +97,6 @@
 | Escape                        | adb shell input keyevent 111 |
 | Explorer                      | adb shell input keyevent 64  |
 | e                             | adb shell input keyevent 33  |
-
-|||
-|-|-|
 | F1                            | adb shell input keyevent 131 |
 | F2                            | adb shell input keyevent 132 |
 | F3                            | adb shell input keyevent 133 |
@@ -132,46 +114,25 @@
 | Function                      | adb shell input keyevent 119 |
 | f                             | adb shell input keyevent 34  |
 | Forward                       | adb shell input keyevent 125 |
-
-|||
-|-|-|
 | Guide                         | adb shell input keyevent 172 |
 | Grave                         | adb shell input keyevent 68  |
 | g                             | adb shell input keyevent 35  |
-
-|||
-|-|-|
 | Help                          | adb shell input keyevent 259 |
 | h                             | adb shell input keyevent 36  |
 | Home                          | adb shell input keyevent 3   |
 | Headsethook                   | adb shell input keyevent 79  |
 | Henkan                        | adb shell input keyevent 214 |
-
-|||
-|-|-|
 | Info                          | adb shell input keyevent 165 |
 | Insert                        | adb shell input keyevent 124 |
 | i                             | adb shell input keyevent 37  |
-
-|||
-|-|-|
 | j                             | adb shell input keyevent 38  |
-
-|||
-|-|-|
 | k                             | adb shell input keyevent 39  |
 | Katakana hiragana             | adb shell input keyevent 215 |
 | Kana                          | adb shell input keyevent 218 |
-
-|||
-|-|-|
 | LEFT bracket                  | adb shell input keyevent 71  |
 | Language switch               | adb shell input keyevent 204 |
 | l                             | adb shell input keyevent 40  |
 | Last channel                  | adb shell input keyevent 229 |
-
-|||
-|-|-|
 | Muhenkan                      | adb shell input keyevent 213 |
 | Media skip forward            | adb shell input keyevent 272 |
 | Media skip backward           | adb shell input keyevent 273 |
@@ -200,9 +161,6 @@
 | Media record                  | adb shell input keyevent 130 |
 | Minus                         | adb shell input keyevent 69  |
 | m                             | adb shell input keyevent 41  |
-
-|||
-|-|-|
 | Notification                  | adb shell input keyevent 83  |
 | Num                           | adb shell input keyevent 78  |
 | n                             | adb shell input keyevent 42  |
@@ -231,13 +189,7 @@
 | Navigate next                 | adb shell input keyevent 261 |
 | Navigate in                   | adb shell input keyevent 262 |
 | Navigate out                  | adb shell input keyevent 263 |
-
-|||
-|-|-|
 | o                             | adb shell input keyevent 43  |
-
-|||
-|-|-|
 | Plus                          | adb shell input keyevent 81  |
 | Pound                         | adb shell input keyevent 18  |
 | Page up                       | adb shell input keyevent 92  |
@@ -252,20 +204,11 @@
 | Prog blue                     | adb shell input keyevent 186 |
 | Paste                         | adb shell input keyevent 279 |
 | Power                         | adb shell input keyevent 26  |
-
-|||
-|-|-|
 | q                             | adb shell input keyevent 45  |
-
-|||
-|-|-|
 | Refresh                       | adb shell input keyevent 285 | 
 | Ro                            | adb shell input keyevent 217 |
 | RIGHT bracket                 | adb shell input keyevent 72  |
 | r                             | adb shell input keyevent 46  |
-
-|||
-|-|-|
 | Soft sleep                    | adb shell input keyevent 276 |
 | Stem primary                  | adb shell input keyevent 264 |
 | Stem 1                        | adb shell input keyevent 265 |
@@ -293,9 +236,6 @@
 | STB power                     | adb shell input keyevent 179 |
 | STB input                     | adb shell input keyevent 180 |
 | System navigation right       | adb shell input keyevent 283 |
-
-|||
-|-|-|
 | TV antenna cable              | adb shell input keyevent 242 |
 | TV                            | adb shell input keyevent 170 |
 | TV power                      | adb shell input keyevent 177 |
@@ -329,37 +269,19 @@
 | TV satellite cs               | adb shell input keyevent 239 |
 | TV satellite service          | adb shell input keyevent 240 |
 | TV zoom mode                  | adb shell input keyevent 255 |
-
-|||
-|-|-|
 | u                             | adb shell input keyevent 49  |
-
-|||
-|-|-|
 | v                             | adb shell input keyevent 50  |
 | Volume mute                   | adb shell input keyevent 164 |
 | Voice assist                  | adb shell input keyevent 231 |
 | Volume up                     | adb shell input keyevent 24  |
 | Volume down                   | adb shell input keyevent 25  |
-
-|||
-|-|-|
 | w                             | adb shell input keyevent 51  |
 | Window                        | adb shell input keyevent 171 |
 | Wakeup                        | adb shell input keyevent 224 |
-
-|||
-|-|-|
 | x                             | adb shell input keyevent 52  |
-
-|||
-|-|-|
 | Yen                           | adb shell input keyevent 216 |
 | y                             | adb shell input keyevent 53  |
-
-|||
-|-|-|
 | Zenkaku hankaku               | adb shell input keyevent 211 |
 | Zoom in                       | adb shell input keyevent 168 |
 | Zoom out                      | adb shell input keyevent 169 |
-| z                             | adb shell input keyevent 54  |---
+| z                             | adb shell input keyevent 54  |
